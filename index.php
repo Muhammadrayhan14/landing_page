@@ -2,9 +2,9 @@
 
 <main class="page-container">
     <div class="content-wrapper">
-        <h2 class="page-title">Halaman baru</h2>
+        <h2 class="page-title">Halaman baruu bangaettt</h2>
         <div class="welcome-section">
-            <p class="welcome-message">halo toro.</p>
+            <p class="welcome-message">halo kampang.</p>
         </div>
     </div>
 </main>
