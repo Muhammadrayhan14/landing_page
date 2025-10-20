@@ -136,6 +136,7 @@
     <header>
         <div class="header-container">
             <h1>Selamat Datang di Website Toro</h1>
+            <h1>Semoga Anda Terhibur</h1>
             <nav>
                 <a href="index.php">Home</a>
                 <a href="about.php">Tentang</a>

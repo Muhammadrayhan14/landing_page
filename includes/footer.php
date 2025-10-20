@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Footer Modern - Contoh Halaman</title>
     <style>
         * {
             margin: 0;
@@ -175,11 +174,6 @@
     </style>
 </head>
 <body>
-    <div class="content">
-        <h1>Contoh Halaman dengan Footer Modern</h1>
-        <p>Ini adalah contoh halaman yang menggunakan footer modern yang dapat di-include ke berbagai halaman.</p>
-        <p>Footer ini memiliki desain yang menarik dengan gradien warna, animasi, dan tata letak responsif.</p>
-    </div>
 
     <!-- Footer yang dapat di-include -->
     <footer>
