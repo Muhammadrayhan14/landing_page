@@ -143,11 +143,6 @@
             <div class="divider"></div>
         </div>
     </header>
-    
-    <!-- Konten halaman lainnya -->
-    <main style="max-width: 1200px; margin: 2rem auto; padding: 0 2rem;">
-        <h2>Konten Utama</h2>
-        <p>Ini adalah contoh konten halaman setelah header yang telah diperbarui.</p>
-    </main>
+   
 </body>
 </html>
