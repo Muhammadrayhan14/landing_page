@@ -172,7 +172,7 @@
     </header>
 
     <main>
-        <h2>Halaman Baru</h2>
+        <h2>Halaman Bau</h2>
         <p>Halo Toro. Selamat datang di halaman baru kami yang telah didesain dengan lebih menarik.</p>
         
         <div class="highlight">
