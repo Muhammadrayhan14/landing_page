@@ -1,6 +1,6 @@
 <hr>
     <footer>
-        <p>&copy; <?= date('Y'); ?> Website Saya. All rights reserved.</p>
+        <p>&copy; <?= date('Y'); ?> Website Saya. Toro.</p>
     </footer>
 </body>
 </html>
