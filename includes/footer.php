@@ -180,7 +180,7 @@
         <div class="footer-container">
             <div class="footer-section">
                 <h3>Tentang Kami</h3>
-                <p>Kami adalah perusahaan yang berdedikasi untuk memberikan solusi terbaik bagi pelanggan kami dengan teknologi terkini.</p>
+                <p>Kami adalah perusahaan abal-abal berkedok teknologi</p>
                 <div class="social-links">
                     <a href="#"><i>FB</i></a>
                     <a href="#"><i>TW</i></a>
